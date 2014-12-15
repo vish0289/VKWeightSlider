@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>82C03A2C-2136-4665-8262-E12D55F239D7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>VKWeightSlider</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>856E3980A3E02113F9ED68681F338503C81D1CCD</key>
+		<string>https://github.com/stoprocent/VKWeightSlider.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>VKWeightSlider.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>856E3980A3E02113F9ED68681F338503C81D1CCD</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/stoprocent/VKWeightSlider.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>856E3980A3E02113F9ED68681F338503C81D1CCD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>856E3980A3E02113F9ED68681F338503C81D1CCD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>VKWeightSlider</string>
+		</dict>
+	</array>
+</dict>
+</plist>

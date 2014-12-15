@@ -15,23 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "3408A8701A3A70F800C5EB92"
-               BuildableName = "VKWeighSlider.app"
-               BlueprintName = "VKWeighSlider"
-               ReferencedContainer = "container:VKWeighSlider.xcodeproj">
-            </BuildableReference>
-         </BuildActionEntry>
-         <BuildActionEntry
-            buildForTesting = "YES"
-            buildForRunning = "YES"
-            buildForProfiling = "NO"
-            buildForArchiving = "NO"
-            buildForAnalyzing = "YES">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "3408A8891A3A70F800C5EB92"
-               BuildableName = "VKWeighSliderTests.xctest"
-               BlueprintName = "VKWeighSliderTests"
-               ReferencedContainer = "container:VKWeighSlider.xcodeproj">
+               BuildableName = "VKWeightSlider.app"
+               BlueprintName = "VKWeightSlider"
+               ReferencedContainer = "container:VKWeightSlider.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -42,24 +28,14 @@
       shouldUseLaunchSchemeArgsEnv = "YES"
       buildConfiguration = "Debug">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "3408A8891A3A70F800C5EB92"
-               BuildableName = "VKWeighSliderTests.xctest"
-               BlueprintName = "VKWeighSliderTests"
-               ReferencedContainer = "container:VKWeighSlider.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "3408A8701A3A70F800C5EB92"
-            BuildableName = "VKWeighSlider.app"
-            BlueprintName = "VKWeighSlider"
-            ReferencedContainer = "container:VKWeighSlider.xcodeproj">
+            BuildableName = "VKWeightSlider.app"
+            BlueprintName = "VKWeightSlider"
+            ReferencedContainer = "container:VKWeightSlider.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -76,9 +52,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "3408A8701A3A70F800C5EB92"
-            BuildableName = "VKWeighSlider.app"
-            BlueprintName = "VKWeighSlider"
-            ReferencedContainer = "container:VKWeighSlider.xcodeproj">
+            BuildableName = "VKWeightSlider.app"
+            BlueprintName = "VKWeightSlider"
+            ReferencedContainer = "container:VKWeightSlider.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,9 +70,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "3408A8701A3A70F800C5EB92"
-            BuildableName = "VKWeighSlider.app"
-            BlueprintName = "VKWeighSlider"
-            ReferencedContainer = "container:VKWeighSlider.xcodeproj">
+            BuildableName = "VKWeightSlider.app"
+            BlueprintName = "VKWeightSlider"
+            ReferencedContainer = "container:VKWeightSlider.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
