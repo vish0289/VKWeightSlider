@@ -11,5 +11,5 @@ Pod::Spec.new do |s|
     :git => 'https://github.com/stoprocent/VKWeightSlider.git',
     :tag => '0.0.1'
   }
-  s.source_files = 'Source/*.{h,m}'
+  s.source_files = 'VKWeightSlider/VKWeightSlider/*.{h,m}'
 end
